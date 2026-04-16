@@ -205,3 +205,14 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# MacOS Finder files
+.DS_Store
+
+# VSCode files
+.vscode/
+
+# Ignore log files and directories
+logs/
+*.log
+*.log.*
